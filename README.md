@@ -19,5 +19,7 @@ It represents a simple banking system with following functionality:
           <li>5. Log out - returns to the initial menu
           <li>0. Exit
         </ls>
- The database used here is SQLite (with sqlite3 module)
+        <br>
+        <br>
+ <p>The database used here is SQLite (with sqlite3 module).</p>
  
